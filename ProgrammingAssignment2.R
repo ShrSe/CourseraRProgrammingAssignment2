@@ -1,8 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-Week 3 R programming assignment. User- ShrSe
+##Week 3 R programming assignment. User- ShrSe
 ## Write a short comment describing this function
-makeCacheMatrix <- function(x = matrix()) {
+##makeCacheMatrix <- function(x = matrix()) {
   ## This function creates a special "matrix" object that can cache its inverse
   
   makeCacheMatrix <- function(x = matrix()) { ## define the argument with default mode of "matrix"
